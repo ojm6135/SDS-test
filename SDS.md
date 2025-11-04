@@ -37,7 +37,6 @@
 |------|------|-------------|--------------|
 | projectRepository | ProjectRepository | private | 프로젝트 엔티티 접근을 위한 리포지토리 |
 | userRepository | UserRepository | private | 사용자 검증을 위한 리포지토리 |
-| projectMapper | ProjectMapper | private | DTO ↔ 엔티티 변환을 담당하는 매퍼 |
 
 ## Operations
 

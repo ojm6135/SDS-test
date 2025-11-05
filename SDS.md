@@ -5,7 +5,7 @@
 # ProjectService
 
 프로젝트와 관련된 비즈니스 로직의 인터페이스로, 프로젝트 생성, 조회, 수정, 삭제 등의 기능을 정의한다.  
-이 인터페이스는 [ProjectServiceImpl](#projectserviceimpl) 클래스에서 구현된다.
+이 인터페이스는 [ProjectServiceImpl](#ProjectServiceImpl) 클래스에서 구현된다.
 
 ## Attributes
 
